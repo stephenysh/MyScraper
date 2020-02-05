@@ -17,6 +17,15 @@ class MyscraperItem(scrapy.Item):
     index = scrapy.Field()
     pass
 
+class WikiItem(scrapy.Item):
+    # define the fields for your item here like:
+    # name = scrapy.Field()
+    url = scrapy.Field()
+    content = scrapy.Field()
+    index = scrapy.Field()
+    pass
+
+
 class SentenceItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()

@@ -2,7 +2,7 @@ import re
 import scrapy
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
-from MyScraper.items import MyscraperItem, SentenceItem
+from MyScraper.items import WikiItem, SentenceItem
 
 # from scrapy.selector import HtmlXPathSelector
 import html2text
@@ -58,9 +58,8 @@ class WikiSpider(CrawlSpider):
             for item1, item2 in zip(l1, l2):
                 sentence = (item1 + item2).strip()
                 if sentence != "" and len(sentence)>50:
-                    item = MyscraperItem()
+                    item = WikiItem()
                     item['url'] = response.url
-                    item['title'] = response.xpath('//h1[@id="firstHeading"]/text()').get()
                     item['content'] = sentence
                     item['index'] = index
                     index += 1
