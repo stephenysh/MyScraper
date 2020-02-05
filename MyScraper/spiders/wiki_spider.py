@@ -39,8 +39,8 @@ class WikiSpider(CrawlSpider):
         self.start_urls = [f"https://en.wikipedia.org/wiki/{kwargs.get('start')}"]
 
 
-    def parse(self, response):
-    # def parse_item(self, response):
+    # def parse(self, response):
+    def parse_item(self, response):
 
         self.logger.info('Hi, this is an item page! %s', response.url)
 
