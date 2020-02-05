@@ -14,6 +14,7 @@ class MyscraperItem(scrapy.Item):
     url = scrapy.Field()
     title = scrapy.Field()
     content = scrapy.Field()
+    index = scrapy.Field()
     pass
 
 class SentenceItem(scrapy.Item):

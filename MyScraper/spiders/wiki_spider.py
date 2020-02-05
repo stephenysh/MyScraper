@@ -25,14 +25,19 @@ def regex_process(text):
 class WikiSpider(CrawlSpider):
     name = 'wiki'
     allowed_domains = ['en.wikipedia.org']
-    start_urls = ['https://en.wikipedia.org/wiki/Tiramisu']
 
     rules = (
         Rule(LinkExtractor(allow='https://en.wikipedia.org/wiki/'), callback='parse_item', follow=True),
     )
 
+    def __init__(self, *args, **kwargs):
+        super(WikiSpider, self).__init__(*args, **kwargs)
+        self.start_urls = [f"https://en.wikipedia.org/wiki/{kwargs.get('start')}"]
 
-    def parse_item(self, response):
+
+    def parse(self, response):
+    # def parse_item(self, response):
+
         self.logger.info('Hi, this is an item page! %s', response.url)
 
         paragraphs = response.xpath('//div[@id="mw-content-text"]/div/p[not(@class)]').extract()
@@ -45,6 +50,7 @@ class WikiSpider(CrawlSpider):
             sentence_list = re.split(r"([\.\?\!])\s", content)
             l1 = sentence_list[::2]
             l2 = sentence_list[1::2]
+            index = 0
             for item1, item2 in zip(l1, l2):
                 sentence = (item1 + item2).strip()
                 if sentence != "" and len(sentence)>50:
@@ -52,6 +58,8 @@ class WikiSpider(CrawlSpider):
                     item['url'] = response.url
                     item['title'] = response.xpath('//h1[@id="firstHeading"]/text()').get()
                     item['content'] = sentence
+                    item['index'] = index
+                    index += 1
                     yield item
             # return item
         else:
