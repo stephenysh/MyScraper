@@ -47,7 +47,7 @@ if __name__ == "__main__":
 
     res = subprocess.run(f"wc -l {args.indir}/*", shell=True, stdout=subprocess.PIPE)
 
-    total_lines = int(re.findall(r" (\d+) ", res.stdout.decode("utf-8") )[-1])
+    total_lines = int(re.findall(r"(\d+) ", res.stdout.decode("utf-8") )[-1])
 
     print(f"total lines: {total_lines}")
 
