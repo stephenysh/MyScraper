@@ -1,5 +1,6 @@
 import re
-import scrapy
+import random
+import pickle
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 from MyScraper.items import WikiItem, SentenceItem
@@ -38,18 +39,42 @@ class WikiSpider(CrawlSpider):
 
     def __init__(self, *args, **kwargs):
         super(WikiSpider, self).__init__(*args, **kwargs)
-        if kwargs.get('start') is None:
-            start = "world-51312319"
+
+        self.id = kwargs.get('id')
+        if self.id is None:
+            raise RuntimeError("should assign id")
+
+        self.keyword_set_maxsize = 100000
+        try:
+            with open(f"{WikiSpider.name}_{self.id}.pickle", "rb") as f:
+                self.keyword_set = pickle.load(f)
+        except Exception as e:
+            self.keyword_set = set()
+
+        if len(self.keyword_set) != 0:
+            start = random.choice(list(self.keyword_set))
         else:
-            start = kwargs.get('start')
+            if kwargs.get('start') is None:
+                start = "world-51312319"
+            else:
+                start = kwargs.get('start')
 
         self.start_urls = [f"https://www.bbc.com/arabic/{start}"]
-        # self.start_urls = [f"https://www.bbc.com/arabic/world-51312319"]
 
 
+    def __del__(self):
+        with open(f"{WikiSpider.name}_{self.id}.pickle", "wb") as f:
+            pickle.dump(self.keyword_set, f)
 
     # def parse(self, response):
     def parse_item(self, response):
+        keyword = response.url.replace("https://www.bbc.com/arabic/", "")
+        if '/' in keyword:
+            return None
+
+        self.keyword_set.add(keyword)
+        if len(self.keyword_set) > self.keyword_set_maxsize:
+            self.keyword_set.pop()
 
         self.logger.info('Hi, this is an item page! %s', response.url)
 
