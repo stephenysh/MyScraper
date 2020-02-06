@@ -38,13 +38,18 @@ class WikiSpider(CrawlSpider):
 
     def __init__(self, *args, **kwargs):
         super(WikiSpider, self).__init__(*args, **kwargs)
-        # self.start_urls = [f"https://en.wikipedia.org/wiki/{kwargs.get('start')}"]
-        self.start_urls = [f"https://www.bbc.com/arabic/world-51312319"]
+        if kwargs.get('start') is None:
+            start = "world-51312319"
+        else:
+            start = kwargs.get('start')
+
+        self.start_urls = [f"https://www.bbc.com/arabic/{start}"]
+        # self.start_urls = [f"https://www.bbc.com/arabic/world-51312319"]
 
 
 
-    def parse(self, response):
-    # def parse_item(self, response):
+    # def parse(self, response):
+    def parse_item(self, response):
 
         self.logger.info('Hi, this is an item page! %s', response.url)
 
