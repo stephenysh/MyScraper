@@ -1,0 +1,100 @@
+Move protection is commonly applied to: Fully edit-protected pages are also implicitly move-protected.
+As with full edit protection, protection because of edit warring should not be considered an endorsement of the current name.
+When move protection is applied during a requested move discussion, the page should be protected at the location it was at when the move request was started.
+All files are implicitly move-protected; only file movers and administrators can move files.
+Upload protected files, or more technically, fully upload-protected files, cannot be replaced with new versions except by an administrator.
+Upload protection does not protect file pages from editing.
+Upload protection may be applied by an administrator to: As with full edit protection, administrators should avoid favoring one file version over another, and protection should not be considered an endorsement of the current file version.
+An obvious exception to this rule is when files are protected due to upload vandalism.
+Pending changes protection is a tool used to suppress vandalism and certain other persistent problems while allowing all users to continue to submit edits.
+Pending changes protection can be used as an alternative to semi- protection to allow unregistered and new users to edit pages, while keeping the edits hidden from the view of most readers until those changes are accepted by a reviewer.
+When a page under pending changes protection is edited by an unregistered editor or a new user, the edit is not directly visible to the majority of Wikipedia readers, until it is reviewed and accepted by an editor with the pending changes reviewer right.
+When a page under pending changes protection is edited by an autoconfirmed user, the edit will be immediately visible to Wikipedia readers.
+Pending changes are visible in the page history, where they are marked as pending review.
+Readers not logged in are shown the latest accepted version of the page; logged-in users see the latest version of the page, with all changes applied.
+When editors who are not reviewers make changes to an article with unreviewed pending changes, their edits are also marked as pending and are not visible to most readers.
+A user who clicks "edit this page" is always, at that point, shown the latest version of the page for editing regardless of whether the user is logged in or not.
+Reviewing of pending changes should be resolved within reasonable time limits.
+Pending changes may be used to protect articles against: Pending changes protection should not be used as a preemptive measure against violations that have not yet occurred.
+Like semi-protection, PC protection should never be used in genuine content disputes, where there is a risk of placing a particular group of editors at a disadvantage.
+Pending changes protection should not be used on articles with a very high edit rate, even if they meet the aforementioned criteria.
+In addition, administrators may apply temporary pending changes protection on pages that are subject to significant but temporary vandalism or disruption when blocking individual users is not a feasible option.
+As with other forms of protection, the time frame of the protection should be proportional to the problem.
+Indefinite PC protection should be used only in cases of severe long-term disruption.
+Removal of pending changes protection can be requested of any administrator, or at requests for unprotection.
+The reviewing process is described in detail at Wikipedia:Reviewing pending changes.
+Extended confirmed protection, also known as 30/500 protection, allows edits only by editors with the extended confirmed user access level, granted automatically to registered users with at least 30 days tenure and 500 edits.
+Where semi-protection has proven to be ineffective, administrators may use extended confirmed protection to combat disruption on any topic.
+The MediaWiki software that runs Wikipedia retains a history of all edits and changes, thus information added to Wikipedia never "vanishes" irreversibly.
+Discussion pages are an important resource on contentious topics.
+Therefore, serious researchers can often find a wide range of vigorously or thoughtfully advocated viewpoints not present in the consensus article.
+A 2005 editorial by a BBC technology writer comments that these debates are probably symptomatic of cultural changes that are happening across all sources of information , and may lead to "a better sense of how to evaluate information sources".
+Wikipedia disclaimers apply to all pages on Wikipedia.
+However, the consensus in Wikipedia is to put all disclaimers only as links and at the end of each article.
+Proposals to have a warning box at the beginning have been rejected.
+Some do not like the way it looks or that it calls attention to possible errors in Wikipedia.
+Wikipedia, in common with many websites, has a disclaimer that, at times, has led to commentators citing these in order to support a view that Wikipedia is unreliable.
+A selection of similar disclaimers from places which are often regarded as reliable can be read and compared at Wikipedia:Non-Wikipedia disclaimers.
+Anyone can contribute to Wikipedia by clicking on the Edit tab in an article.
+Before beginning to contribute, however, read some handy helping tools such as the tutorial and the policies and guidelines, as well as our welcome page.
+It is important to realize that in contributing to Wikipedia, users are expected to be civil and neutral, respecting all points of view, and add only verifiable and factual information rather than personal views and opinions.
+"The five pillars of Wikipedia" cover this approach and are recommended reading before editing.
+Most articles start as stubs, but after many contributions, they can become featured articles.
+Once the contributor has decided a topic of interest, they may want to request that the article be written .
+Wikipedia has on-going projects, focused on specific topic areas or tasks, which help coordinate editing.
+The ease of editing Wikipedia results in many people editing.
+That makes the updating of the encyclopedia very quick, almost as fast as news websites.
+Wikipedia uses a simple yet powerful page layout to allow editors to concentrate on adding material rather than page design.
+Page aspects facilitated include: Normally editing is chosen by clicking the `Edit` tab at the top of a Wikipedia page .
+This will take you to a new page with a text box containing the editable text of the page you were viewing.
+In this box, you can type in the text that you want to add, using wiki markup to format the text and add other elements like images and tables.
+You should then press the `Show preview` button to review your contributions for any errors.
+When you have finished editing, you should write a short edit summary in the small field below the edit-box describing your changes before you press the `Publish changes` button.
+This will help others to understand the intention of your edit.
+To avoid accidentally leaving edit summaries blank, you can select "Prompt me when entering a blank edit summary" on the `Edit` tab of your personal preferences.
+Page editing is accessed through tabs that are found along the top edge of the page.
+These are: Wikipedia has robust version and reversion controls.
+This means that poor- quality edits or vandalism can quickly and easily be reversed or brought up to an appropriate standard by any other editor, so inexperienced editors cannot accidentally do permanent harm if they make a mistake in their editing.
+As there are many more editors intent on improving articles than not, error- ridden articles are usually corrected promptly.
+Wikipedia content is intended to be factual, notable, verifiable with cited external sources, and neutrally presented.
+The appropriate policies and guidelines for these are found at: These are often abbreviated to WP:NOT, WP:NPOV, WP:NOR, WP:V, WP:RS, WP:CITE, and WP:MOS respectively.
+The Wikipedia community is largely self-organising, so that anyone may build a reputation as a competent editor and become involved in any role s/he may choose, subject to peer approval.
+Individuals often will choose to become involved in specialised tasks, such as reviewing articles at others' request, watching current edits for vandalism, watching newly created articles for quality control purposes, or similar roles.
+This category and its subcategories contain project pages which have been semi-protected in line with the Wikipedia:Protection policy.
+Semi- protection prevents a page from being edited by anonymous and newly registered users.
+For fully protected pages, which can be edited only by administrators, see Category:Wikipedia protected pages.
+To add a page to this category, use {{pp-semi-protected}}.
+This should only be done if the page is in fact semi-protected.
+Note that adding the template does not in itself protect the page.
+Conversely, protecting the page does not automatically add the template , which results in some pages having a "view source"-tab instead of "edit this page" and yet not showing "Semi-protected" at the bottom -- a situation new users may find rather confusing.
+Therefore, it is best to always add the template immediately after protecting the page.
+Contains pages with short descriptions defined on Wikipedia by short description.
+Three 'brigade groups', each comprising four brigades, were deployed: the 12th in the north, holding the sector from the B'nat Ya'acov bridge to the slopes of Mount Hermon, the 35th in the south from the B'nat Ya'acov bridge to the Yarmuk River border with Jordan, and the 42nd in reserve, earmarked for a theater-level counterattack role.
+During the Six-Day War Israeli assault of the Golan heights, the Syrian army failed to counterattack the Israelis as the Israelis breached the Syrian positions.
+While Syrian units fought hard whenever the Israelis entered their fields of fire, no attempts appear to have been made to exploit Israeli disorientation and confusion during the initial assault.
+Judging from reports of 1967–1970, including the reporting of the 5th Infantry Division in 1970, the Army appears to have formed its first divisions during this period.
+The 1st and 3rd Armored Division, and 5th, 7th, and 9th Mechanized Infantry Divisions were all formed prior to 1973.
+Katz writes that after Hafez al-Assad gained power in November 1970, the army expanded to the five divisions listed above, plus ten independent brigades, an artillery rocket brigade , and "a reinforced brigade variously termed the 70th Armored Brigade or the Assad Republican Guard.
+It is today known as the Armored Defense Force; as Assad's praetorian guard it is stationed in and around Damascus and subordinate to the Defense Companies under the command of Assad's brother Rifa'at." On 18 September 1970, the Syrian government became involved in Black September in Jordan when it sent a reinforced armored brigade to aid the Palestine Liberation Organization.
+Syrian armored units crossed the border and overran Irbid with the help of local Palestinian forces.
+They encountered several Jordanian Army detachments, but rebuffed them without major difficulty.
+Two days later, the 5th Infantry Division, heavily reinforced, was also sent into Jordan.
+Two armored brigades were attached to the division, bringing its tank strength up to over 300 T-55s and its manpower to over 16,000.
+The division entered Jordan at ar-Ramtha, destroyed a company of Jordanian Centurion tanks there, and continued directly towards Amman.
+Pollack says it is likely that they intended to overthrow the Jordanian monarchy itself.
+Despite defeating the Jordanian Army at al-Ramtha on 21 September, after fierce air attacks on 22 September, the Syrians stopped the attack and began to retreat.
+After 1970 further Syrian engagements included: The Syrian armed forces have also been involved in suppressing dissident movements within Syria, for example the Islamist uprising in Syria in 1979–1982.
+In March 1980 the 3rd Armored Division and detachments from the Defense Companies arrived in Aleppo.
+The division was under the command of General Shafiq Fayadh, Hafiz Assad's first cousin.
+The troops sealed "off whole quarters and carr[ied] out house-to-house searches, often preceded by tank fire." Hundreds of suspects were rounded up.
+Only two conventional Army brigades deployed to Hama in 1982, the 3rd Armored Division's 47th Armored and 21st Mechanized Brigades.
+Three quarters of the officers and one third of the soldiers in the two brigades were Alawites.
+Most of the repression was carried out by the Defense Companies and the Special Forces.
+Meanwhile, the Special Forces were isolating and combing through Hama, killing and capturing suspected government opponents.
+Syrian forces fought Israel during the 1982 Lebanon War.
+In 1984, Major General Ali Haidar's Special Forces were instrumental in blocking an abortive attempt by Rifaat Assad and his Defense Companies to seize the capital.
+Fayadh's 3rd Armored Division moved into the capital to join Haidar's forces in the confrontation with the Defense Companies.
+The 3rd Armored Division, it seems, had historically been based at al-Qutayfah, near Damascus.
+Bennett dates the establishment of corps in the Syrian Army to 1985.
+Writing forty years later, Tom Cooper says they were established 'during the 1980s' but "..despite the establishment of..
+most division commanders continued reporting directly to the President.

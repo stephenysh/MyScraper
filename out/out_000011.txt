@@ -1,0 +1,100 @@
+Correspondingly, not only the Chief of Staff of the Syrian Armed Forces but also the Corps HQ exercised only a limited operational control over the Army's divisions." The 9th Armored Division served in the 1991 Persian Gulf War as the Arab Joint Forces Command North reserve and saw little action.
+In 1994, Haidar expressed objections to the Syrian president's decision to bring Bashar home from his studies in Britain and groom him for the succession after the death of Basil, the eldest Assad son.
+Soon afterwards, on 3 September 1994, Jane's Defence Weekly reported that then-President Hafez Assad had dismissed at least 16 senior military commanders.
+Among them was Haidar, then commander of the Special Forces, and General Shafiq Fayadh, a cousin of the President who had commanded the "crack" 3rd Armored Division for nearly two decades.
+Before the "Glorious Revolution" of 1688, the sovereign exclusively wielded the powers of the Crown; afterwards, Parliament gradually forced monarchs to assume a neutral political position.
+Parliament has effectively dispersed the powers of the Crown, entrusting its authority to responsible ministers , accountable for their policies and actions to Parliament, in particular the elected House of Commons.
+Although many of the sovereign's prerogative powers are still legally intact,[note 1] constitutional conventions have removed the monarch from day- to-day governance, with ministers exercising the royal prerogatives, leaving the monarch in practice with three constitutional rights: to be kept informed, to advise, and to warn.
+Because the premiership was not intentionally created, there is no exact date when its evolution began.
+A meaningful starting point, however, is 1688–89 when James II fled England and the Parliament of England confirmed William III and Mary II as joint constitutional monarchs, enacting legislation that limited their authority and that of their successors: the Bill of Rights , the Mutiny Bill , the Triennial Bill , the Treason Act and the Act of Settlement .
+Known collectively as the Revolutionary Settlement, these acts transformed the constitution, shifting the balance of power from the Sovereign to Parliament.
+They also provided the basis for the evolution of the office of prime minister, which did not exist at that time.
+The Revolutionary Settlement gave the Commons control over finances and legislation and changed the relationship between the Executive and the Legislature.
+For want of money, sovereigns had to summon Parliament annually and could no longer dissolve or prorogue it without its advice and consent.
+Parliament became a permanent feature of political life.
+The veto fell into disuse because sovereigns feared that if they denied legislation, Parliament would deny them money.
+No sovereign has denied royal assent since Queen Anne vetoed the Scottish Militia Bill in 1708.
+Treasury officials and other department heads were drawn into Parliament serving as liaisons between it and the sovereign.
+Ministers had to present the government's policies, and negotiate with Members to gain the support of the majority; they had to explain the government's financial needs, suggest ways of meeting them and give an account of how money had been spent.
+The Sovereign's representatives attended Commons sessions so regularly that they were given reserved seats at the front, known as the Treasury Bench.
+This is the beginning of "unity of powers": the sovereign's ministers became leading members of Parliament .
+Today the prime minister , the Chancellor of the Exchequer and other senior members of the Cabinet sit on the Treasury bench and present policies in much the same way Ministers did late in the 17th century.
+After the Revolution, there was a constant threat that non-government members of Parliament would ruin the country's finances by proposing ill-considered money bills.
+Vying for control to avoid chaos, the Crown's Ministers gained an advantage in 1706, when the Commons informally declared, "That this House will receive no petition for any sum of money relating to public Service, but what is recommended from the Crown." On 11 June 1713, this non-binding rule became Standing Order 66: that "the Commons would not vote money for any purpose, except on a motion of a Minister of the Crown." Standing Order 66 remains in effect today , essentially unchanged for three hundred years.
+Studnicka also held the goalscoring record for the national side from the team's first match until 1929, although Ferdinand Swatosch did equal his tally of 18 in 1925.
+Johann Horvath overtook the pair with a brace against Italy.
+Horvath and Anton Schall competed for the record for several years as part of Austria's "Wunderteam"; Schall surpassed Horvath in 1933 before Horvath reclaimed the record the following year.
+Schall tied the new record a week later with his final international goal, but Horvath went on to score two more goals before retiring to finish his career with 29 goals.
+Horvath's record stood for 46 years until Hans Krankl scored his 30th international goal in November 1980, going on to finish his career with 34 goals.
+Krankl's total included six goals during a 9–0 victory over Malta in 1977, the most goals scored in a single international match by an Austrian player.
+The current record holder, Toni Polster, surpassed Krankl in 1996 and eventually ended his career with 44 international goals.
+Appearances and goals are composed ofFIFA World Cup and UEFA European Championships, and each competition's required qualification matches, as well as numerous international friendly tournaments and matches.
+If the number of caps is equal, the players are then listed alphabetically.
+Statistics updated following match played on 19 November 2019.
+Each of the three lists is arranged in the order explained above .
+If an item ought to be positioned within a list on the basis of an alternative name for that item, then this can be specified in the category tag that places the item in the list: For example, to add an article called Albert Einstein to the category "People" and have the article sorted by "Einstein, Albert", you would type: Unlike a piped link , the sort key itself is not displayed to readers.
+It affects only the order in which pages are listed on the category page.
+It is useful to document the system being used for sort keys on the category page.
+For guidelines about the use of sort keys on Wikipedia, see WP:SORTKEY.
+It is possible to set a default sort key which is different from PAGENAME by using the magic word DEFAULTSORT: In the case of multiple default sort key tags, the last DEFAULTSORT on the final rendering of a page applies for all categories, regardless of the position of the category tags.
+This also means that a DEFAULTSORT tag included from a template is not effective if another DEFAULTSORT tag occurs later on the page, even if the later DEFAULTSORT tag is also "hidden" .
+In addition to browsing through hierarchies of categories, it is possible to use the search tool to find specific articles in specific categories.
+To search for articles in a specific category, type incategory:" CategoryName " in the search box.
+An "OR" can be added to join the contents of one category with the contents of another.
+For example, enter to return all pages that belong to either of the categories, as here.
+Note that using search to find categories will not find articles which have been categorized using templates.
+This feature also doesn't return pages in subcategories.
+Special:Categories provides an alphabetic list of all categories, with the number of members of each; this number does not include the content of the subcategories, but it includes the subcategories themselves, i.e., each counting as one.
+The above list contains all categories that have members, regardless of whether they have corresponding category pages.
+To list all existing category pages , use Special:AllPages/Category:.
+As described at mw:Help:Magic words,  Example  or  Example  returns the number of pages in "Category:Example".
+Each subcategory counts as one page; pages in subcategories are not counted.
+The page Special:CategoryTree enables you to see the tree structure of a category .
+The CategoryTree extension can be used to display such a tree on any page.
+The basic syntax is to display just the subcategory tree, and to display member pages as well.
+Dapete's category-visualizer vCat will render charts of the tree structure.
+You may also use Template:Category tree or Template:Category tree all, instead.
+Warning: Categories can be moved in the same way as an ordinary page; but a certain amount of cleanup may be necessary.
+The Kingdom of Norway accepted the convention on 12 May 1977, making its historical sites eligible for inclusion on the list.
+As of 2017, there are eight World Heritage Sites in Norway, including seven cultural sites and one natural site.
+There is one transnational site, the Struve Geodetic Arc, that is shared with nine other countries.
+Norway's first two sites, Urnes Stave Church and Bryggen, were inscribed on the list at the 3rd session of the World Heritage Committee, held in Cairo and Luxor, Egypt in 1979.
+The latest inscription, the Rjukan–Notodden Industrial Heritage Site, was added to the list in 2015.
+In addition to its World Heritage Sites, Norway also maintains five properties on its tentative list, three of which are transnational nominations.
+UNESCO lists sites under ten criteria; each entry must meet at least one of the criteria.
+Criteria i through vi are cultural, whereas vii through x are natural.
+In addition to sites inscribed on the World Heritage List, member states can maintain a list of tentative sites that they may consider for nomination.
+Nominations for the World Heritage List are only accepted if the site was previously listed on the tentative list.
+As of 2019, Norway lists five properties on its tentative list.
+He previously served as Prime Minister of Turkey from 2003 to 2014 and as Mayor of Istanbul from 1994 to 1998.
+He founded the Justice and Development Party in 2001, leading it to election victories in 2002, 2007 and 2011 before standing down upon his election as President in 2014.
+Coming from an Islamist political background and as a self-described conservative democrat, he has promoted socially conservative and liberal economic policies in his administration.
+Erdoğan played football for Kasımpaşa before being elected as the Mayor of Istanbul in 1994, as the candidate of the Islamist Welfare Party.
+He was later stripped of his position, banned from political office, and imprisoned for four months for inciting religious hatred.
+Erdoğan subsequently abandoned openly Islamist politics, establishing the moderate conservative AKP in 2001, which he went on to lead to a landslide victory in 2002.
+With Erdoğan still technically prohibited from holding office, the AKP's co-founder, Abdullah Gül, instead became Prime Minister, and later annulled Erdoğan's political ban.
+After winning a by-election in Siirt in 2003, Erdoğan replaced Gül as Prime Minister, with Gül instead becoming the AKP's candidate for the presidency.
+Erdoğan led the AKP to two more election victories in 2007 and 2011, before being elected President in 2014, and re-elected in 2018.
+The early years of Erdoğan's tenure as prime minister saw advances in negotiations for Turkey's membership of the European Union, an economic recovery following a financial crash in 2001 and investments in infrastructure including roads, airports, and a high-speed train network.
+He also won two successful constitutional referendums in 2007 and 2010.
+However, his government remained controversial for its close links with Fethullah Gülen and his Gülen Movement, now designated as a terrorist organisation, with whom the AKP was accused of orchestrating purges against secular bureaucrats and military officers through the Balyoz and Ergenekon trials.
+In late 2012, his government began peace negotiations with the Kurdistan Workers Party to end the ongoing PKK insurgency that began in 1978.
+The ceasefire broke down in 2015, leading to a renewed escalation in conflict.
+Erdoğan's foreign policy has been described as Neo-Ottoman and has involved attempts to prevent Syrian-Kurdish PYD/YPG forces from gaining ground on the Turkish–Syrian border during the Syrian Civil War.
+Erdoğan's government has been accused of democratic backsliding and corruption in later years.
+Starting with the anti-government protests in 2013, his government imposed growing censorship on the press and social media, imposing blocks on sites such as YouTube, Twitter and Wikipedia.
+This stalled negotiations related to EU membership.
+A US$100 billion corruption scandal in 2013 led to the arrests of Erdoğan's close allies, and incriminated Erdoğan.
+Following a souring in relations with Gülen, Erdoğan proceeded to purge his supporters from judicial, bureaucratic and military positions.
+A failed military coup d'état attempt in July 2016 resulted in further purges and a state of emergency.
+The government claimed that the coup leaders were linked to Gülen, but he has denied any role in it.
+As a long-standing proponent of changing Turkey's parliamentary system of government into an executive presidency, Erdoğan formed an alliance with the far-right Nationalist Movement Party to establish an executive presidency in 2017, where the changes were accepted in a constitutional referendum.
+Extended confirmed protection should not be used as a preemptive measure against disruption that has not yet occurred, nor should it be used to privilege extended confirmed users over unregistered users in valid content disputes on articles not covered by Arbitration Committee 30/500 rulings.
+Extended confirmed protection may be applied by an administrator at their discretion when creation-protecting a page.
+Until August 12, 2016, 30/500 protection applied only in topic areas determined by the Arbitration Committee, which authorized its use on articles reasonably construed as belonging to the Arab–Israeli conflict; as an arbitration enforcement tool by motion or remedy; or as a result of community consensus.
+In February 2019, the community authorized uninvolved administrators to place pages reasonably construed as belonging to the India–Pakistan conflict under extended confirmed protection as part of a general sanctions regime.
+As of September 23, 2016, a bot posts a notification in a subsection of AN when this protection level is used.
+A full list of the 1929 pages under 30/500 protection can be found here.
+Users can request edits to an extended confirmed-protected page by proposing them on its talk page, using the `{{Edit extended-protected}}` template if necessary to gain attention.
+As outlined in Meta:Office actions#Use of advanced rights by Foundation staff, pages may be protected by Wikimedia Foundation staff in response to issues such as copyright infringement or libel.
+Administrators should not edit or unprotect such pages without permission from Wikimedia Foundation staff.

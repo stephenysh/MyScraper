@@ -1,0 +1,100 @@
+By the start of the 20th century the modern premiership had emerged; the office had become the pre-eminent position in the constitutional hierarchy vis-à-vis the Sovereign, Parliament and Cabinet.
+Prior to 1902, the Prime Minister sometimes came from the House of Lords, provided that his government could form a majority in the Commons.
+However as the power of the aristocracy waned during the 19th century the convention developed that the prime minister should always sit as a Member of Parliament in the lower house, making them answerable only to the Commons in Parliament.
+As leader of the House of Commons, the Prime Minister's authority was further enhanced by the Parliament Act 1911 which marginalised the influence of the House of Lords in the law-making process.
+The Prime Minister is ex officio also First Lord of the Treasury, Minister for the Civil Service and Minister for the Union.
+Indeed, certain privileges, such as residency of 10 Downing Street, are accorded to Prime Ministers by virtue of their position as First Lord of the Treasury.
+The status and executive powers of the British Prime Minister means that the incumbent is consistently ranked as one of the most powerful and influential people in the world.
+The Prime Minister is the head of the United Kingdom government.
+As such, the modern Prime Minister leads the Cabinet .
+In addition, the prime minister leads a major political party and generally commands a majority in the House of Commons .
+The incumbent wields both significant legislative and executive powers.
+Under the British system, there is a unity of powers rather than separation.
+In the House of Commons, the prime minister guides the law-making process with the goal of enacting the legislative agenda of their political party.
+In an executive capacity, the prime minister appoints all other Cabinet members and ministers, and co-ordinates the policies and activities of all government departments, and the staff of the Civil Service.
+The prime minister also acts as the public "face" and "voice" of Her Majesty's Government, both at home and abroad.
+Solely upon the advice of the prime minister, the Sovereign exercises many statutory and prerogative powers, including high judicial, political, official and Church of England ecclesiastical appointments; the conferral of peerages and some knighthoods, decorations and other important honours.
+The British system of government is based on an uncodified constitution, meaning that it is not set out in any single document.
+The British constitution consists of many documents and most importantly for the evolution of the office of the prime minister, it is based on customs known as constitutional conventions that became accepted practice.
+Asquith described this characteristic of the British constitution in his memoirs: The relationships between the prime minister and the sovereign, Parliament and Cabinet are defined largely by these unwritten conventions of the constitution.
+Many of the prime minister's executive and legislative powers are actually royal prerogatives which are still formally vested in the sovereign, who remains the head of state.
+Despite its growing dominance in the constitutional hierarchy, the premiership was given little formal recognition until the 20th century; the legal fiction was maintained that the Sovereign still governed directly.
+The position was first mentioned in statute only in 1917, in the schedule of the Chequers Estate Act.
+Increasingly during the 20th century, the office and role of prime minister featured in statute law and official documents; however, the Prime Minister's powers and relationships with other institutions still largely continue to derive from ancient royal prerogatives and historic and modern constitutional conventions.
+Prime ministers continue to hold the position of First Lord of the Treasury and, since November 1968, that of Minister for the Civil Service, the latter giving them authority over the civil service.
+Under this arrangement, Britain might appear to have two executives: the prime minister and the sovereign.
+The Crown symbolises the state's authority to govern: to make laws and execute them, impose taxes and collect them, declare war and make peace.
+Austria played its first international match on 12 October 1902, defeating neighbouring Hungary 5–0 in a friendly.
+The team is governed by the Austrian Football Association and competes as a member of the Union of European Football Associations , which encompasses the countries of Europe and Israel.
+As of November 2019, Austria has played a total of 783 international matches, winning 325, drawing 169 and losing 289.
+Austria have played Hungary most frequently, meeting the side 137 times.
+Of these, Austria have won 40, drawn 30 and lost 67.
+The Austria–Hungary football rivalry is the second-most played international fixture in football history, behind only the Argentina–Uruguay rivalry which has been played officially 193 times.
+Andi Herzog is Austria's most capped player with 103 caps.
+He made his international debut on 6 April 1988 in a 2–2 draw with Greece and equalled Toni Polster's caps record on 17 April 2002 by winning his 95th cap.
+He surpassed Polster one month later in his next appearance and went on to finish his career with 103 caps, having become the only Austrian to win more than 100 caps.
+Polster remains Austria's highest goalscorer with 44 goals, including three hat-tricks and six braces.
+Jan Studnicka, who scored a hat-trick in Austria's first international fixture, was the first player to amass 25 caps for the side.
+He achieved the tally in November 1917 but attained only three more caps for the national side during his career.
+Alexander Popovic set a new caps record in April 1921 by winning his 29th cap before Josef Brandstätter claimed the record a year later.
+Josef Blum equalled Brandstätter's record in 1929 but did not surpass him for nearly two years before becoming the new record holder when he won his next cap.
+He finished his career with 51 caps, becoming the first player to reach 50 appearances for the national side.
+Ernst Ocwirk held the caps record between 1954 and 1957 before Gerhard Hanappi became the record holder after his 62nd appearance.
+Hanappi's first 55 caps had been won in a consecutive spell of fixtures between November 1948 and May 1956.
+His final tally of 93 appearances stood for more than 40 years until Polster overtook the record during the group stage of the 1998 FIFA World Cup.
+Having equalled Hanappi's record in Austria's second group game against Chile, he won his 94th cap in his side's final group match with Italy.
+Polster appeared only once more for Austria after the tournament, retiring with 95 caps.
+These initial characters are displayed above the sections.
+To suppress these, make all sort keys start with a space.
+A category page can only display a limited number of items .
+If more pages belong to the category, there will be a link to the next ones.
+The categories box for the category page appears at the bottom, in the same place as for other pages.
+This contains the categories to which the current category page has been added, i.e.
+Add a category page to other categories in the normal way, using the "[[Category: Category name ]]" or "[[Category: Category name | Sortkey ]]" syntax.
+A page belongs to a category if the page's wikimarkup contains a declaration for that category.
+A category declaration takes the form `[[Category: Category name ]]` or `[[Category: Category name | Sortkey ]]`.
+it will not work if it appears between `<nowiki>...</nowiki>` or `<includeonly>...</includeonly>` tags, or in a comment.
+The declaration may however come from a transcluded page; see Categories and templates below.
+A category name can be any string that would be a legitimate page title.
+If the category name begins with a lower-case letter it will be capitalized.
+In Wikipedia, it is customary to place category declarations at the end of the wikimarkup, but before any stub templates and interlanguage links.
+When a page has been added to one or more categories, a categories box appears at the bottom of the page .
+This box contains a list of the categories the page belongs to, in the order in which the category declarations appear in the processed wikimarkup.
+The category names are linked to the corresponding category pages.
+They appear as redlinks if the corresponding category page does not exist.
+If a user has enabled the HotCat gadget, the categories box will also provide links to quickly add, remove, or modify category declarations on the page, without having to edit the whole page.
+Hidden categories are not displayed, except as described below under Hiding categories.
+The following subsections are ordered from simple actions to more elaborate or rarer actions.
+To link to a category page without putting the current page in that category, precede the link with a colon: [[:Category: Category name ]].
+Raw information about the members of a category, their sortkeys and timestamps can be obtained from the API, using a query of the form: Listings of up to 500 members are possible.
+If there are more members then the results will include text near the end like this: `<categorymembers cmcontinue="page|NNNN|TITLE" />`.
+This can be added to the previous one, without quotation marks, for the next page of members: `...&cmcontinue=page|NNNN|TITLE` By default, a page is sorted under the first character of its name, without the namespace.
+English Wikipedia groups accented characters together with their unaccented version, so pages starting with À, Á, Ä, will be listed under heading A.
+Sorting is case-insensitive, so "ABC" comes after "Abacus".
+Unlike at Special:Allpages and Special:Prefixindex, a space is treated as a space , not as an underscore.
+The English Wikipedia has numerical sorting in categories.
+This means a page whose title begins with a number will be sorted according to the numeric value of the number .
+Thus "9 dogs", "25 dogs", and "112 dogs" will all appear under the "0–9" heading in numeric order.
+If the number includes a comma, space, or period, the sorting algorithm will only consider the part of the number before the separator.
+The United Nations Educational, Scientific and Cultural Organization World Heritage Sites are places of importance to cultural or natural heritage as described in the UNESCO World Heritage Convention, established in 1972.
+Recep Tayyip Erdoğan (UK: /ˈɛərdəwæn/ AIR -də-wan, US: /-wɑːn/ -⁠wahn, Turkish: [ɾeˈdʒep tajˈjip ˈæɾdoan] (![About this sound] is the 12th and current president of the Republic of Turkey.
+From 2015, Barnier served as unpaid special adviser on European defence policy to President of the European Commission Jean-Claude Juncker.
+On 27 July 2016, he was announced as the European Commission's chief negotiator with the United Kingdom over leaving the European Union, under Article 50 of the Treaty on European Union.
+Commenting on the appointment, Juncker said: "I wanted an experienced politician for this difficult job." In January 2019, following the Brady Amendment vote in the UK House of Commons, Michel Barnier said the Irish backstop is "part and parcel" of the UK's Brexit withdrawal agreement and will not be renegotiated.
+European Commission European Commissioner for Internal Market and Services 2010–2014 European Commissioner for Regional Policy 1999–2004 French Government Minister of Agriculture and Fisheries 2007–2009 Minister of Foreign Affairs 2004–2005 Minister of European Affairs 1995–1997 Minister of the Environment 1993–1995 Electoral mandates European Parliament Member of European Parliament 2009–2010 National Assembly of France Member of the National Assembly of France for Savoie 1978–1993 .
+Elected in 1978, reelected in 1981, 1986, 1988, 1993.
+General Council President of the General Council of Savoie 1982–1999 .
+In the table under Lists of featured content, the number of former featured articles has a thousands comma and the numbers in the top row don't.
+I tried to find where these numbers are being formatted but couldn't figure out how the series of transclusions works.
+— Nizolan 20:35, 3 July 2019 Since this page is the third link in the main sidebar, and gets 5,000 daily pageviews , can we trim it of some of the weird links?
+The table at the beginning is confusing and unappealing even to an editor like me—entries like "3493 / T" or "FLRC / T" aren't going to be parseable to the average reader of Wikipedia.
+I'd say we don't really want an interested reader who's never edited to be directly clicking on a link to Wikipedia talk:Featured topics anyway—the description at Wikipedia:Featured topics would be a better overview and from there they could investigate some of the internal links further if they were keen.
+And the main FA, FL, FT, FP links are already present at the top of the lists of recently promoted content.
+Then there's also the odd collection of links under the header "Featured content procedures"; I can't imagine that the first two are even useful to any editors and none of the links are great for a casual reader.
+And lastly, the "Shortcuts" box is too cluttered and distracting to a reader who just clicked on a sidebar link—I'd trim it to just "P:FC".
+I'm posting here rather than just editing because I'd like to hear other people's thoughts, but if there's no response I'll likely take that as consensus and implement these suggestions in a week.
+To make a convincing case for re-creation, it is helpful to show a draft version of the intended article when filing a request.
+Administrators should choose the appropriate level of create protection—autoconfirmed, extended-confirmed, or full.
+Due to the implementation of ACPERM, non-confirmed editors cannot create pages in mainspace; thus, semi-creation protection should be rare, used only for protection of pages outside of mainspace.
+While creation-protection is usually permanent, temporary creation protection may be applied if a page is repeatedly recreated by a single user .
+Move protected pages, or more technically, fully move-protected pages, cannot be moved to a new title except by an administrator.

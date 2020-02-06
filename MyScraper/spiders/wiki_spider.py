@@ -15,6 +15,7 @@ _re_bold = re.compile(r"\*\*([^\*]+)\*\*")
 _re_ital = re.compile(r"\_([^\_]+)\_")
 _re_ref = re.compile(r"\[\d+\]")
 _re_img = re.compile(r"\*\[\!\[[^\[]+\]\([^\(]+\)\]\:")
+_re_img1 = re.compile(r"\!\[[^\[]+\]\([^\(]+\)\]\:")
 _re_start_bracket = re.compile(r"\*\[[^\[]+\]\:")
 _re_bracket = re.compile(r"\([^\(]+\)")
 

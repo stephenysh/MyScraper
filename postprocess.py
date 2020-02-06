@@ -15,6 +15,10 @@ _re_ref = re.compile(r"\[\d+\]")
 _re_img = re.compile(r"\*\[\!\[[^\[]+\]\([^\(]+\)\]\:")
 _re_start_bracket = re.compile(r"\*\[[^\[]+\]\:")
 _re_bracket = re.compile(r"\([^\(]+\)")
+_re_need_remove1 = re.compile(r"\{\{([^\{]+)\}\} ")
+_re_need_remove2 = re.compile(r"\`\{\{[\w ]+:([\w ]+)\}\}\`")
+_re_need_remove3 = re.compile(r"\`\{\{([\w ]+)\}\}\`")
+
 
 _re_json_content = re.compile(r'"content"\s*:\s*"(.+)"\}')
 
@@ -23,6 +27,9 @@ def regex_process(text):
     text = re.sub(_re_multi_space, " ", text)
     text = re.sub(_re_bold, lambda match: match.group(1), text)
     text = re.sub(_re_ital, lambda match: match.group(1), text)
+    text = re.sub(_re_need_remove1, lambda match: match.group(1), text)
+    text = re.sub(_re_need_remove2, lambda match: match.group(1), text)
+    text = re.sub(_re_need_remove3, lambda match: match.group(1), text)
     text = re.sub(_re_ref, "", text)
     text = re.sub(_re_img, "", text) # img should before start bracket
     text = re.sub(_re_start_bracket, "", text)
@@ -95,7 +102,7 @@ if __name__ == "__main__":
 
                 if line.strip().endswith(","):
                     try:
-                        d = json.loads(line.strip())
+                        d = json.loads(line.strip()[:-1])
                         content = d['content']
 
                     except Exception as e:

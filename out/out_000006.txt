@@ -1,0 +1,100 @@
+Wikipedia's articles provide links designed to guide the user to related pages with additional information.
+Wikipedia is written collaboratively by largely anonymous volunteers who write without pay.
+Anyone with Internet access can write and make changes to Wikipedia articles, except in limited cases where editing is restricted to prevent disruption or vandalism.
+Users can contribute anonymously, under a pseudonym, or, if they choose to, with their real identity.
+The fundamental principles by which Wikipedia operates are the five pillars.
+The Wikipedia community has developed many policies and guidelines to improve the encyclopedia; however, it is not a formal requirement to be familiar with them before contributing.
+Since its creation on January 15, 2001, Wikipedia has grown rapidly into one of the largest reference websites, attracting 374 million unique visitors monthly as of September 2015[update].
+There are about 68,000 active contributors working on more than 48,000,000 articles in 302 languages.
+As of today, there are 6,009,373 articles in English.
+Every day, hundreds of thousands of visitors from around the world collectively make tens of thousands of edits and create thousands of new articles to augment the knowledge held by the Wikipedia encyclopedia.
+People of all ages, cultures and backgrounds can add or edit article prose, references, images and other media here.
+What is contributed is more important than the expertise or qualifications of the contributor.
+What will remain depends upon whether the content is free of copyright restrictions and contentious material about living people, and whether it fits within Wikipedia's policies, including being verifiable against a published reliable source, thereby excluding editors' opinions and beliefs and unreviewed research.
+Contributions cannot damage Wikipedia because the software allows easy reversal of mistakes and many experienced editors are watching to help ensure that edits are cumulative improvements.
+Begin by simply clicking the Edit link at the top of any editable page!
+Wikipedia is a live collaboration differing from paper-based reference sources in important ways.
+Unlike printed encyclopedias, Wikipedia is continually created and updated, with articles on historic events appearing within minutes, rather than months or years.
+Because everybody can help improve it, Wikipedia has become more comprehensive than any other encyclopedia.
+In addition to quantity, its contributors work on improving quality as well.
+Wikipedia is a work-in-progress, with articles in various stages of completion.
+As articles develop, they tend to become more comprehensive and balanced.
+Quality also improves over time as misinformation and other errors are removed or repaired.
+However, because anyone can click "edit" at any time and add content, any article may contain undetected misinformation, errors, or vandalism.
+Awareness of this helps the reader to obtain valid information, avoid recently added misinformation , and fix the article.
+See also: Wikipedia:FAQ and Wikipedia:Citing Wikipedia Wikipedia was founded as an offshoot of Nupedia, a now-abandoned project to produce a free encyclopedia, begun by the online media company Bomis.
+Nupedia had an elaborate system of peer review and required highly qualified contributors, but the writing of articles was slow.
+During 2000, Jimmy Wales , and Larry Sanger, whom Wales had employed to work on the encyclopedia project, discussed ways of supplementing Nupedia with a more open, complementary project.
+Multiple sources suggested that a wiki might allow members of the public to contribute material, and Nupedia's first wiki went online on January 10, 2001.
+There was considerable resistance on the part of Nupedia's editors and reviewers to the idea of associating Nupedia with a website in the wiki format, so the new project was given the name "Wikipedia" and launched on its own domain, wikipedia.com, on January 15 .
+Other current and past Bomis employees who have worked on the project include Tim Shell, one of the cofounders of Bomis and its current CEO, and programmer Jason Richey.
+In May 2001, a large number of non-English Wikipedias were launched—in Catalan, Chinese, Dutch, Esperanto, French, German, Hebrew, Italian, Japanese, Portuguese, Russian, Spanish, and Swedish.
+In September, Polish was added, and further commitment to the multilingual provision of Wikipedia was made.
+It enables us to use All article disambiguation pages to get the exact number of disambiguation pages in the main namespace.
+Pages are put in this category by templates such as Disambiguationand {{Airport disambiguation}}.
+That is, templates built with the dmboxmeta- template, which is doing the actual categorising.
+Disambiguation in Wikipedia is the process of resolving the conflicts that occur when articles about two or more different topics could have the same "natural" page title.
+Wikipedia is built around/with the principle that anyone can edit it, and it therefore aims to have as many of its pages as possible open for public editing so that anyone can add material and correct errors.
+Disambiguation pages on Wikipedia are used as a process of resolving conflicts in article titles that occur when a single term can be associated with more than one topic, making that term likely to be the natural title for more than one article.
+In other words, disambiguations are paths leading to different articles which could, in principle, have the same title.
+For example, the word "Mercury" can refer to several different things, including an element, a planet, and a Roman god.
+Since only one Wikipedia page can have the generic name "Mercury", unambiguous article titles are used for each of these topics: Mercury , Mercury , Mercury .
+There must then be a way to direct the reader to the correct specific article when the ambiguous word "Mercury" is referenced by linking, browsing or searching; this is what is known as disambiguation.
+In this case it is achieved using Mercury as the title of a disambiguation page.
+There are three principal disambiguation scenarios, of which the following are examples: Occasionally a reader may follow a link that ends up at a disambiguation page rather than at one of the links shown on that page.
+The original page can be edited to link directly to its intended destination.
+Feel free to make such edits; everyone is welcome to improve Wikipedia, including you.
+It could be you who makes the overall experience of Wikipedia that much better.
+At the end of the year, Afrikaans, Norwegian, and Serbo-Croatian versions were announced.
+The domain was eventually changed to the present wikipedia.org when the not- for-profit Wikimedia Foundation was launched, in 2003, as its new parent organization, with the ".org" top-level domain denoting its non-commercial nature.
+Anyone with Web access can edit Wikipedia, and this openness encourages inclusion of a tremendous amount of content.
+About 70,000 editors—from expert scholars to casual readers—regularly edit Wikipedia, and these experienced editors often help to create a consistent style throughout the encyclopedia, following our Manual of Style.
+Several mechanisms are in place to help Wikipedia members carry out the important work of crafting a high-quality resource while maintaining civility.
+Editors are able to watch pages and technically skilled persons can write editing programs to keep track of or rectify bad edits.
+Where there are disagreements on how to display facts, editors often work together to compile an article that fairly represents current expert opinion on the subject.
+Aspiring authors may wish to read the information on Contributing to Wikipedia before contributing to the project.
+Although the Wikimedia Foundation owns the site, it is largely uninvolved in writing and daily operations.
+"Wikipedia" is a registered trademark of the not-for-profit Wikimedia Foundation, which has created a family of free-content projects that are built by user contributions.
+Most of Wikipedia's text and many of its images are dual-licensed under the Creative Commons Attribution-Sharealike 3.0 Unported License and the GNU Free Documentation License .
+Some text has been imported only under CC-BY-SA and CC-BY-SA-compatible license and cannot be reused under GFDL; such text is identified either on the page footer, in the page history or on the discussion page of the article that utilizes the text.
+Every image has a description page that indicates the license under which it is released or, if it is non-free, the rationale under which it is used.
+Contributions remain the property of their creators, while the CC-BY-SA and GFDL licenses ensure the content is freely distributable and reproducible.
+Text on Wikipedia is a collaborative work, and the efforts of individual contributors to a page are recorded in that page's history, which is publicly viewable.
+Information on the authorship of images and other media, such as sound files, can be found by clicking on the image itself or the nearby information icon to display the file page, which includes the author and source, where appropriate, along with other information.
+Many visitors come to Wikipedia to acquire knowledge, while others come to share knowledge.
+At this very instant, dozens of articles are being improved, and new articles are also being created.
+Changes can be viewed at the Recent changes page and a random page at random articles.
+Over 5,600 articles have been designated by the Wikipedia community as featured articles, exemplifying the best articles in the encyclopedia.
+Another 30,000 articles are designated as good articles.
+Some information on Wikipedia is organized into lists; the best of these are designated as featured lists.
+Categories are intended to group together pages on similar subjects.
+Michel Bernard Barnier is a French politician serving as the European Commission's Head of Task Force for Relations with the United Kingdom since November 2019.
+This category contains disambiguation pages : non- article pages containing links to other Wikipedia articles and disambiguation pages.
+Disambiguation pages are added to Category:Disambiguation pages by placing the Disambiguationtemplate on the page itself.
+Other templates are available that place articles in more specific disambiguation subcategories.
+A page may also be assessed as "disambiguation-class" by various WikiProjects by including "|class=Disambig" in a WikiProject template on the talk page of the disambiguation page.
+This places the talk page in a subcategory of Category:Disambig-Class articles.
+Lists of disambiguation pages: Disambiguation pages can include links to Wiktionary, using wiktionary.
+However, in some particular circumstances, because of a specifically identified likelihood of damage resulting if editing is left open, some individual pages may need to be subject to technical restrictions on who is permitted to modify them.
+The placing of such restrictions on pages is called protection.
+Protection can be applied to or removed from pages only by Wikipedia's administrators, although any user may request protection.
+Protection can be indefinite or expire after a specified time period.
+The most commonly used types of protection are full protection , which means that a page can be modified only by administrators; and semi- protection , which means that a page can be modified only by users who are logged in and whose accounts have been confirmed .
+Protected pages are marked with a small padlock icon in the top right corner of the article page; different color padlocks represent different protection types, as shown in the images at the right.
+The template `{{pp-protected}}` is usually placed on protected pages to display the padlock.
+Even when protected, the source code of the page can still be viewed and copied by any user.
+Placing the mouse pointer over a padlock icon produces an informational tooltip saying "This article is protected." If the padlock template's 'reason' parameter is specified, the tooltip also says why the page is protected.
+If the 'expiry' parameter is specified, the tooltip says for what duration the page is protected.
+This policy explains in detail the protection types and procedures for page protection and unprotection and the reasons for which protection should and should not be applied.
+The following technical options are available to administrators for protecting different actions to pages: The following technical options are available to administrators for adding protection levels to the different actions to pages: Any type of protection may be requested at Wikipedia:Requests for page protection.
+Changes to a fully protected page should be proposed on the corresponding talk page, and carried out by an administrator if they are uncontroversial or if there is consensus for them.
+Except in the case of office actions , Arbitration Committee remedies, or pages in the MediaWiki namespace , administrators may unprotect a page if the reason for its protection no longer applies, a reasonable period has elapsed, and there is no consensus that continued protection is necessary.
+Editors desiring the unprotection of a page should, in the first instance, ask the administrator who applied the protection unless the administrator is inactive or no longer an administrator; thereafter, requests may be made at Requests for unprotection.
+Note that such requests will normally be declined if the protecting administrator is active and was not consulted first.
+A log of protections and unprotections is available at Special:Log/protect.
+A fully protected page can be edited or moved only by administrators.
+The protection may be for a specified time or may be indefinite.
+Modifications to a fully protected page can be proposed on its talk page for discussion.
+Administrators can make changes to the protected article reflecting consensus.
+Placing the Edit fully protected template on the talk page will draw the attention of administrators for implementing uncontroversial changes.
+Content disputes and edit warring may be addressed with blocks issued by uninvolved administrators while allowing normal page editing by other editors.

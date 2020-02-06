@@ -1,0 +1,100 @@
+However, when it is displayed, the editable part of the page is followed by automatically generated lists of pages belonging to the category, as follows: The items in the lists all link to the pages concerned; in the case of the images this applies both to the image itself and to the text below it .
+For the way in which the lists are ordered, see Sorting category pages below.
+The first and second lists are divided into sections, according to the first character of the sort key.
+These initial characters are displayed above the sections.
+To suppress these, make all sort keys start with a space.
+A category page can only display a limited number of items .
+However, in some particular circumstances, because of a specifically identified likelihood of damage resulting if editing is left open, some individual pages may need to be subject to technical restrictions on who is permitted to modify them.
+The placing of such restrictions on pages is called protection.
+Protection can be applied to or removed from pages only by Wikipedia's administrators, although any user may request protection.
+Protection can be indefinite or expire after a specified time period.
+The most commonly used types of protection are full protection , which means that a page can be modified only by administrators; and semi- protection , which means that a page can be modified only by users who are logged in and whose accounts have been confirmed .
+Protected pages are marked with a small padlock icon in the top right corner of the article page; different color padlocks represent different protection types, as shown in the images at the right.
+The template `{{pp-protected}}` is usually placed on protected pages to display the padlock.
+Even when protected, the source code of the page can still be viewed and copied by any user.
+Placing the mouse pointer over a padlock icon produces an informational tooltip saying "This article is protected." If the padlock template's 'reason' parameter is specified, the tooltip also says why the page is protected.
+If the 'expiry' parameter is specified, the tooltip says for what duration the page is protected.
+This policy explains in detail the protection types and procedures for page protection and unprotection and the reasons for which protection should and should not be applied.
+The following technical options are available to administrators for protecting different actions to pages: The following technical options are available to administrators for adding protection levels to the different actions to pages: Any type of protection may be requested at Wikipedia:Requests for page protection.
+Changes to a fully protected page should be proposed on the corresponding talk page, and carried out by an administrator if they are uncontroversial or if there is consensus for them.
+Except in the case of office actions , Arbitration Committee remedies, or pages in the MediaWiki namespace , administrators may unprotect a page if the reason for its protection no longer applies, a reasonable period has elapsed, and there is no consensus that continued protection is necessary.
+Editors desiring the unprotection of a page should, in the first instance, ask the administrator who applied the protection unless the administrator is inactive or no longer an administrator; thereafter, requests may be made at Requests for unprotection.
+Note that such requests will normally be declined if the protecting administrator is active and was not consulted first.
+A log of protections and unprotections is available at Special:Log/protect.
+A fully protected page can be edited or moved only by administrators.
+The protection may be for a specified time or may be indefinite.
+Modifications to a fully protected page can be proposed on its talk page for discussion.
+Administrators can make changes to the protected article reflecting consensus.
+Placing the Edit fully protected template on the talk page will draw the attention of administrators for implementing uncontroversial changes.
+Content disputes and edit warring may be addressed with blocks issued by uninvolved administrators while allowing normal page editing by other editors.
+Under the protection policy, an alternative approach is available as administrators have the discretion to temporarily fully protect an article to end an ongoing edit war.
+This approach may be better suited to multi-party disputes and contentious content as talk page consensus becomes a requirement for implementation of requested edits.
+When protecting a page because of a content dispute, administrators have a duty to avoid protecting a version that contains policy-violating content, such as vandalism, copyright violations, defamation, or poor-quality coverage of living people.
+Administrators remain uninvolved when exercising their discretion, subject to this proviso, to decide whether to apply protection to the most current version of an article, or to an older, stable, or pre-edit- war version.
+Protected pages may not be edited except to make changes that are uncontroversial or for which there is clear consensus.
+Editors convinced that the protected version of an article contains policy-violating content, or that protection has rewarded edit warring or disruption by establishing a contentious revision, may identify a stable version prior to the edit war and request reversion to that version.
+Before making such a request, editors should consider how independent editors might view the suggestion and recognize that continuing an edit war is grounds for being blocked.
+Administrators who have made substantive content changes to an article are considered involved and must not use their advanced permissions to further their own positions.
+When involved in a dispute, it is almost always wisest to respect the editing policies that bind all editors and call for input from an uninvolved administrator, rather than to invite controversy by acting unilaterally.
+Applying page protection as a preemptive measure is contrary to the open nature of Wikipedia and is generally not allowed if applied for these reasons.
+There are three principal disambiguation scenarios, of which the following are examples: Occasionally a reader may follow a link that ends up at a disambiguation page rather than at one of the links shown on that page.
+The original page can be edited to link directly to its intended destination.
+Feel free to make such edits; everyone is welcome to improve Wikipedia, including you.
+It could be you who makes the overall experience of Wikipedia that much better.
+Bayard Rustin was an American leader in social movements for civil rights, socialism, nonviolence, and gay rights.
+I do some New Pages Patrol and occasionally come across someone who has copyrighted material he or she would like to donate to Wikipedia.
+I'd like to direct such people to WP:Donating copyrighted materials, the intuitive shortcut to which is WP:DONATE, which redirects to the Donors subpage.
+I'm not saying we should redirect the shortcut over there since the subpage does make more sense as a target, but I do think a hatnote to the effect of "'WP:DONATE' redirects here.
+You may be looking for WP:Donating copyrighted materials." should be placed at the top of the Donors subpage.
+I am aware of the actual shortcuts to Donating copyrighted materials and use them, but one can't generally guess them without looking at the page itself.
+Murder is the unlawful killing of another human without justification or valid excuse, especially the unlawful killing of another human with malice aforethought.
+Coordinates: 29°36′S 28°18′E﻿ / ﻿29.6°S 28.3°E﻿ / -29.6; 28.3 Lesotho (/ləˈsuːtuː/ (![About this sound], officially the Kingdom of Lesotho , is an enclaved country within the border of South Africa.
+Most articles start as stubs, but after many contributions, they can become featured articles.
+Once the contributor has decided a topic of interest, they may want to request that the article be written .
+Wikipedia has on-going projects, focused on specific topic areas or tasks, which help coordinate editing.
+The ease of editing Wikipedia results in many people editing.
+That makes the updating of the encyclopedia very quick, almost as fast as news websites.
+Wikipedia uses a simple yet powerful page layout to allow editors to concentrate on adding material rather than page design.
+Page aspects facilitated include: Normally editing is chosen by clicking the `Edit` tab at the top of a Wikipedia page .
+This will take you to a new page with a text box containing the editable text of the page you were viewing.
+In this box, you can type in the text that you want to add, using wiki markup to format the text and add other elements like images and tables.
+You should then press the `Show preview` button to review your contributions for any errors.
+When you have finished editing, you should write a short edit summary in the small field below the edit-box describing your changes before you press the `Publish changes` button.
+This will help others to understand the intention of your edit.
+To avoid accidentally leaving edit summaries blank, you can select "Prompt me when entering a blank edit summary" on the `Edit` tab of your personal preferences.
+Page editing is accessed through tabs that are found along the top edge of the page.
+These are: Wikipedia has robust version and reversion controls.
+This means that poor- quality edits or vandalism can quickly and easily be reversed or brought up to an appropriate standard by any other editor, so inexperienced editors cannot accidentally do permanent harm if they make a mistake in their editing.
+As there are many more editors intent on improving articles than not, error- ridden articles are usually corrected promptly.
+World of Darkness is a series of tabletop role-playing games by White Wolf Publishing and is also the name of their shared setting.
+The United Nations Educational, Scientific and Cultural Organization World Heritage Sites are places of importance to cultural or natural heritage as described in the UNESCO World Heritage Convention, established in 1972.
+Chris Evans is an American actor who made his film debut in Biodiversity: Wild About Life!
+If more pages belong to the category, there will be a link to the next ones.
+The categories box for the category page appears at the bottom, in the same place as for other pages.
+This contains the categories to which the current category page has been added, i.e.
+Add a category page to other categories in the normal way, using the "[[Category: Category name ]]" or "[[Category: Category name | Sortkey ]]" syntax.
+A page belongs to a category if the page's wikimarkup contains a declaration for that category.
+A category declaration takes the form `[[Category: Category name ]]` or `[[Category: Category name | Sortkey ]]`.
+it will not work if it appears between `<nowiki>...</nowiki>` or `<includeonly>...</includeonly>` tags, or in a comment.
+The declaration may however come from a transcluded page; see Categories and templates below.
+A category name can be any string that would be a legitimate page title.
+If the category name begins with a lower-case letter it will be capitalized.
+In Wikipedia, it is customary to place category declarations at the end of the wikimarkup, but before any stub templates and interlanguage links.
+When a page has been added to one or more categories, a categories box appears at the bottom of the page .
+This box contains a list of the categories the page belongs to, in the order in which the category declarations appear in the processed wikimarkup.
+The category names are linked to the corresponding category pages.
+They appear as redlinks if the corresponding category page does not exist.
+If a user has enabled the HotCat gadget, the categories box will also provide links to quickly add, remove, or modify category declarations on the page, without having to edit the whole page.
+Hidden categories are not displayed, except as described below under Hiding categories.
+The following subsections are ordered from simple actions to more elaborate or rarer actions.
+To link to a category page without putting the current page in that category, precede the link with a colon: [[:Category: Category name ]].
+Raw information about the members of a category, their sortkeys and timestamps can be obtained from the API, using a query of the form: Listings of up to 500 members are possible.
+If there are more members then the results will include text near the end like this: `<categorymembers cmcontinue="page|NNNN|TITLE" />`.
+This can be added to the previous one, without quotation marks, for the next page of members: `...&cmcontinue=page|NNNN|TITLE` By default, a page is sorted under the first character of its name, without the namespace.
+However, brief periods of an appropriate and reasonable protection level are allowed in situations where blatant vandalism or disruption is occurring and at a level of frequency that requires its use in order to stop it.
+The duration of the protection should be set as short as possible, and the protection level should be set to the lowest restriction needed in order to stop the disruption while still allowing productive editors to make changes.
+If a deleted page is going through deletion review, only administrators are normally capable of viewing the former content of the page.
+If they feel it would benefit the discussion to allow other users to view the page content, administrators may restore the page, blank it or replace the contents with TempUndelete or a similar notice, and fully protect the page to prevent further editing.
+The previous contents of the page are then accessible to everyone via the page history.
+Generic file names such as File:Map.jpg, File:Photo.jpg, and File:Sound.wav are fully protected to prevent new versions being uploaded.
+Administrators cannot change or remove the protection for some areas on Wikipedia which are permanently protected by the MediaWiki software: In addition to hard-coded protection, the following are usually permanently protected: A template-protected page can be edited only by administrators or users in the Template editors group.
