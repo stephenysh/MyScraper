@@ -30,21 +30,21 @@ def regex_process(text):
 
 class WikiSpider(CrawlSpider):
     name = 'arab'
-    allowed_domains = ['ar.wikipedia.org']
+    allowed_domains = ['ar.wikipedia.org', 'ar.wikinews.org','ar.wikisource.org','ar.wikibooks.org' ]
 
     rules = (
-        Rule(LinkExtractor(allow='https://ar.wikipedia.org/wiki'), callback='parse_item', follow=True),
+        Rule(LinkExtractor(allow=['https://ar.wikipedia.org/wiki', 'https://ar.wikinews.org/wiki','https://ar.wikisource.org/wiki','https://ar.wikibooks.org/wiki']), callback='parse_item', follow=True),
     )
 
     def __init__(self, *args, **kwargs):
         super(WikiSpider, self).__init__(*args, **kwargs)
         # self.start_urls = [f"https://en.wikipedia.org/wiki/{kwargs.get('start')}"]
-        self.start_urls = [f"https://ar.wikipedia.org/wiki/تيراميسو"]
+        self.start_urls = [f"https://ar.wikisource.org/wiki/تاجر_البندقية"]
 
 
 
-    # def parse(self, response):
-    def parse_item(self, response):
+    def parse(self, response):
+    # def parse_item(self, response):
 
         self.logger.info('Hi, this is an item page! %s', response.url)
 
@@ -73,7 +73,7 @@ class WikiSpider(CrawlSpider):
                 l1 = sentence_list[::2]
                 l2 = sentence_list[1::2]
 
-                print(sentence_list)
+                # print(sentence_list)
 
                 for item1, item2 in zip(l1, l2):
                     sentence = (item1 + item2).strip()
