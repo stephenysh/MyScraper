@@ -1,4 +1,0 @@
-Sandboxes should not ordinarily be protected since their purpose is to let new users test and experiment with wiki syntax.
-Most sandboxes are automatically cleaned every 12 hours, although they are frequently overwritten by other testing users.
-Those who use sandboxes for malicious purposes, or to violate policies such as no personal attacks, civility, or copyrights, should instead be warned and/or blocked.
-The following templates may be added at the very top of a page to indicate that it is protected: On redirect pages, use the Redirect category shelltemplate, which automatically categorizes by protection level, below the redirect line.
