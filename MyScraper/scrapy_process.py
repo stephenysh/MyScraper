@@ -18,9 +18,9 @@ settings = get_project_settings()
 settings.attributes['FEED_URI'].set(f'{args.name}_{args.id}.json',0)
 settings.attributes['FEED_FORMAT'].set('jsonlines',0)
 
-process = CrawlerProcess(settings)
 
 while True:
+    process = CrawlerProcess(settings)
     process.crawl(args.name, start=args.start, id=args.id)
     process.start()
 
