@@ -37,6 +37,8 @@ class WikiSpider(CrawlSpider):
         Rule(LinkExtractor(allow=['https://www.bbc.com/arabic/']), callback='parse_item', follow=True),
     )
 
+
+
     def __init__(self, *args, **kwargs):
         super(WikiSpider, self).__init__(*args, **kwargs)
 
@@ -60,7 +62,6 @@ class WikiSpider(CrawlSpider):
                 start = kwargs.get('start')
 
         self.start_urls = [f"https://www.bbc.com/arabic/{start}"]
-
 
     def __del__(self):
         with open(f"{WikiSpider.name}_{self.id}.pickle", "wb") as f:
