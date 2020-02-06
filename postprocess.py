@@ -1,6 +1,7 @@
 import re
 import os
 import time
+import json
 import argparse
 import subprocess
 from pathlib import Path
@@ -81,16 +82,33 @@ if __name__ == "__main__":
                 if line == "":
                     break
 
-                content_list = re.findall(_re_json_content, line)
+                # content_list = re.findall(_re_json_content, line)
 
-                if len(content_list) == 1:
-                    content = regex_process(content_list[0])
+                # if len(content_list) == 1:
+                #     content = regex_process(content_list[0])
+                #
+                #     if not re.match(".*[a-zA-Z].*", content):
+                #         continue
+                #
+                # else:
+                #     continue
+
+                if line.strip().endswith(","):
+                    try:
+                        d = json.loads(line.strip())
+                        content = d['content']
+
+                    except Exception as e:
+                        continue
+
+                    content = regex_process(content)
 
                     if not re.match(".*[a-zA-Z].*", content):
                         continue
 
                 else:
                     continue
+
 
                 fw.write(content.strip() + "\n")
                 # fw.flush()
