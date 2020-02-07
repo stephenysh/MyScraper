@@ -4,6 +4,7 @@ import pickle
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 from MyScraper.items import WikiItem, SentenceItem
+from scrapy.exceptions import CloseSpider
 
 # from scrapy.selector import HtmlXPathSelector
 import html2text
@@ -72,6 +73,9 @@ class WikiSpider(CrawlSpider):
         keyword = response.url.replace("https://www.bbc.com/arabic/", "")
         if '/' in keyword:
             return None
+
+        # if random.choice([1,2,3,4,5,6,7,8,9,10]) == 1:
+        #     raise CloseSpider(reason='API usage exceeded')
 
         self.keyword_set.add(keyword)
         if len(self.keyword_set) > self.keyword_set_maxsize:
