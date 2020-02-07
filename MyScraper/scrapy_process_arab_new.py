@@ -7,6 +7,8 @@ from MyScraper.spiders.arab_bbc_spider import WikiSpider
 
 parser = argparse.ArgumentParser()
 
+parser.add_argument("--name")
+
 parser.add_argument("--start", required=True)
 
 parser.add_argument("--id", required=True)
