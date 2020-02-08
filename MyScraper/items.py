@@ -31,3 +31,18 @@ class SentenceItem(scrapy.Item):
     # name = scrapy.Field()
     content = scrapy.Field()
     pass
+
+class CamDictItem(scrapy.Item):
+    # define the fields for your item here like:
+    en_wd = scrapy.Field()
+    ar_wd = scrapy.Field()
+    url = scrapy.Field()
+    pass
+
+class BabItem(scrapy.Item):
+    # define the fields for your item here like:
+    idx = scrapy.Field()
+    en_str = scrapy.Field()
+    ar_str = scrapy.Field()
+    url = scrapy.Field()
+    pass
