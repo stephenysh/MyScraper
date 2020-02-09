@@ -47,8 +47,10 @@ class BabSpider(CrawlSpider):
 
         url = response.url.replace(f'https://en.bab.la/dictionary/english-arabic/', '')
 
-        if not re.match(self.char + r'[0-9a-zA-Z\-]{1,}', url):
+        if not re.match(self.char + r'[0-9a-zA-Z\-]*$', url):
             return None # must use return, will not run the below
+
+        print(f"look into page {response.url}")
 
         for section in response.xpath('//span[@class="section-label"]'):
             if section.xpath('text()').get() == 'Context sentences':
