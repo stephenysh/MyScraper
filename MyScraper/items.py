@@ -21,8 +21,8 @@ class WikiItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     url = scrapy.Field()
-    content = scrapy.Field()
-    index = scrapy.Field()
+    title = scrapy.Field()
+    filename = scrapy.Field()
     pass
 
 
